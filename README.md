@@ -4,8 +4,7 @@ A housing prices recommendation system aims to enhance the home-buying experienc
 
 This system can offer prospective buyers a clear understanding of the value of properties they are interested in.
 
-The data sets are from
-
+###Data sets
 House Prices - Advanced Regression Techniques: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=test.csv
 - test.csv
 - train.csv
